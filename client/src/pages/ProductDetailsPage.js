@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import { useState, useEffect } from 'react';
 import { useParams, useNavigate } from 'react-router-dom';
 import {
   Container,
@@ -26,8 +26,6 @@ import {
   Edit,
   Delete,
   Category,
-  Visibility,
-  Schedule
 } from '@mui/icons-material';
 import { useAuth } from '../contexts/AuthContext';
 import ChatButton from '../components/Chat/ChatButton';

@@ -25,8 +25,6 @@ import {
   FilterList,
   LocalFlorist,
   Nature,
-  AttachMoney,
-  LocationOn,
   AccessTime,
   Person,
   ShoppingBag

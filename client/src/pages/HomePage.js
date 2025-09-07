@@ -15,19 +15,14 @@ import {
   Fade,
   Paper,
   CircularProgress,
-  IconButton,
-  Badge
 } from '@mui/material';
 import {
   Search,
   Nature,
-  LocalFlorist,
-  AttachMoney,
   Person,
   AccessTime,
   ShoppingBag,
   Add,
-  Category,
   Storefront
 } from '@mui/icons-material';
 import axios from 'axios';

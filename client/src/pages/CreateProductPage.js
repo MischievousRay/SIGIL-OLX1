@@ -20,14 +20,10 @@ import {
 import {
   ArrowBack,
   CloudUpload,
-  AttachMoney,
   Category,
   Description,
   Title,
   Delete,
-  LocalFlorist,
-  Nature,
-  AddShoppingCart
 } from '@mui/icons-material';
 import { useAuth } from '../contexts/AuthContext';
 import axios from 'axios';

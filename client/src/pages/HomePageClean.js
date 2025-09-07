@@ -21,12 +21,10 @@ import {
   TrendingUp,
   Nature,
   LocalFlorist,
-  AttachMoney,
   Person,
   AccessTime,
   ShoppingBag,
   Add,
-  Category
 } from '@mui/icons-material';
 import axios from 'axios';
 

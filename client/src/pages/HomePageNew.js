@@ -12,16 +12,11 @@ import {
   InputAdornment,
   Chip,
   Fade,
-  IconButton,
   Paper
 } from '@mui/material';
 import {
   Search,
-  LocationOn,
-  Favorite,
-  FavoriteOutlined,
   Visibility,
-  TrendingUp,
   Nature,
   LocalFlorist
 } from '@mui/icons-material';

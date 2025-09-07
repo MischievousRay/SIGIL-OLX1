@@ -21,7 +21,6 @@ import {
   LocalFlorist,
   Nature,
   Search,
-  ShoppingBag
 } from '@mui/icons-material';
 import { useAuth } from '../../contexts/AuthContext';
 

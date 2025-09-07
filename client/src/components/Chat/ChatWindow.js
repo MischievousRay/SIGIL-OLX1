@@ -6,14 +6,11 @@ import {
   IconButton,
   Avatar,
   Paper,
-  Divider,
   Chip
 } from '@mui/material';
 import {
   Send,
   ArrowBack,
-  AttachMoney,
-  Image as ImageIcon
 } from '@mui/icons-material';
 import axios from 'axios';
 import { useAuth } from '../../contexts/AuthContext';
